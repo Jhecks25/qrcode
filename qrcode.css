@@ -1,0 +1,102 @@
+@font-face {
+  src: url("Outfit/Outfit-VariableFont_wght.ttf");
+  font-family: outfit;
+}
+
+.main{
+  width: 100%;
+  margin: auto;
+  height: 800px;
+  background: hsl(212, 45%, 89%);
+}
+
+ .white_bacground{
+  margin: auto;
+  width: 90%;
+  position: relative;
+  top: 80px;
+  height: 600px;
+  border-radius: 20px;
+  background:hsl(0, 0%, 100%);
+}
+
+.image_page{
+  width: 90%;
+  margin: auto;
+  height: 300px;
+  position: relative;
+  top: 40px;
+  text-align: center;
+  font-family: outfit;
+}
+
+.image_page h1{
+  font-size: 18px;
+}
+
+p{
+  font-size: 15px;
+}
+
+.image_page > img{
+  width: 90%;
+  height: 300px;
+  border-radius: 15px;
+}
+
+ @media only screen and (max-width: 375px) {
+  .main{
+    width: 100%;
+
+  }
+
+  .white_bacground{
+    width: 90%;
+    height: 450px;
+
+  }
+
+  .image_page{
+    width: 90%;
+    height: 200px;
+  }
+
+  .image_page h1{
+    font-size: 20px;
+  }
+
+  .image_page > img{
+    width: 90%;
+    height: 200px;
+  }
+
+}
+
+@media only screen and (min-width: 376px) and (max-width: 1440px) {
+  .main{
+    width: 70%;
+    margin: 70px auto 80px;
+    height: 500px;
+    }
+
+  .white_bacground{
+    width: 30%;
+    height: 400px;
+    top: 40px;
+    border-radius: 15px;
+  }
+
+  .image_page{
+    width: 90%;
+    margin: auto;
+    height: 300px;
+    position: relative;
+    top: 10px;
+    font-family: outfit;
+  }
+
+  .image_page > img{
+    width: 100%;
+    height: 80%;
+    border-radius: 5px;
+  }
