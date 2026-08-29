@@ -43,7 +43,7 @@ main{
   display:flex;
   flex-flow:wrap;
   width: 70vw; 
-  height: 50vh;
+  height: 40vh;
   background-color: green;
 }
 
