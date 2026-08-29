@@ -34,7 +34,7 @@ main{
 
 .qrcode-image > img{
   width: 30vw;
-  height: 20vh;
+  height: 10vh;
   border-radius: 15px;
 }
  
