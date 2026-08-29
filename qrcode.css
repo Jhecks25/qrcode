@@ -28,7 +28,6 @@ main{
 
 .qrcode-image{
   width: 50vw; 
-  height: 20vh;
 }
 
 .qrcode-image > img{
