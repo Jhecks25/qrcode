@@ -54,6 +54,7 @@ main{
 .qrcode-text > span{
   width: 70vw;
   height: 10vh; 
+  padding: 0.5rem;
   font-family: outfit;
   background-color: red;
 }
@@ -64,6 +65,7 @@ main{
 
 .text-weight-400{
   font-weight: 400;
+  margin: 10rem;
 }
 
 
