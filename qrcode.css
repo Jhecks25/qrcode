@@ -13,7 +13,7 @@ main{
   justify-content: center;
   align-item: center;
   width: 100vw; 
-  height: 50vh;
+  height: 100vh;
   background: hsl(212, 45%, 89%);
 }
 
@@ -36,7 +36,7 @@ main{
 
 .qrcode-image > img{
   width: 50vw;
-  height: 20vh;
+  height: 30vh;
   border-radius: 15px;
 }
  
