@@ -12,7 +12,7 @@ main{
 
  .wrapper{
   display:flex;
-  flex-flow:rowwrap;
+  flex-flow:wrap;
   width: 60vw;
   height: 60vh;
   background:hsl(0, 0%, 100%);
