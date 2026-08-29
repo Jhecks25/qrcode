@@ -19,7 +19,8 @@ main{
   justify-content: center;
   align-item: center; 
   width: 80vw;
-  height: 50vh; 
+  height: 55vh; 
+  border-radius: 1rem;
   margin-top: 10rem;
   background:hsl(0, 0%, 100%);
 }
