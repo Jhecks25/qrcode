@@ -43,13 +43,12 @@ main{
   display:flex;
   flex-flow:wrap;
   width: 50vw; 
-  height: 30vh;
+  height: 20vh;
   background-color: green;
 }
 
 .qrcode-text > span{
   width: 50vw;
-  height: 10vh;
   margin-top: 0.5rem;
   padding: 0.5rem;
 }
