@@ -3,20 +3,18 @@
   font-family: outfit;
 }
 
-.main{
-  width: 100%;
-  margin: auto;
-  height: 800px;
+main{
+  display: flex;
+  width: 100vw; 
+  height: 100vh;
   background: hsl(212, 45%, 89%);
 }
 
- .white_bacground{
-  margin: auto;
-  width: 90%;
-  position: relative;
-  top: 80px;
-  height: 600px;
-  border-radius: 20px;
+ .wrapper{
+  display:flex;
+  flex-flow:rowwrap;
+  width: 60vw;
+  height: 60vh;
   background:hsl(0, 0%, 100%);
 }
 
@@ -44,6 +42,7 @@ p{
   border-radius: 15px;
 }
 
+/**
  @media only screen and (max-width: 375px) {
   .main{
     width: 100%;
@@ -71,6 +70,7 @@ p{
   }
 
 }
+
 
 @media only screen and (min-width: 376px) and (max-width: 1440px) {
   .main{
@@ -100,3 +100,4 @@ p{
     height: 80%;
     border-radius: 5px;
   }
+**/
