@@ -41,7 +41,7 @@ main{
   flex-flow:wrap;
   width: 70vw; 
   height: 20vh;
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin-bottom: 5rem; 
   background-color: ;
 }
@@ -50,7 +50,6 @@ main{
   width: 70vw;
   height: 10vh; 
   padding: 0.5rem;
-  font-size: 15px; 
 }
 
 .text-weight-700{
