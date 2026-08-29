@@ -32,7 +32,7 @@ main{
   width: 70vw; 
   height: 30vh;
   margin-top: 1rem;
-  background-color: red;
+  background-color: ;
 }
 
 .qrcode-image > img{
@@ -47,7 +47,7 @@ main{
   width: 70vw; 
   height: 20vh;
   margin-bottom: 10vh;
-  background-color: green;
+  background-color: ;
 }
 
 .qrcode-text > span{
