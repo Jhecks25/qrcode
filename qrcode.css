@@ -44,7 +44,7 @@ main{
   display:flex;
   flex-flow:wrap;
   width: 50vw; 
-  height: 5vh;
+  height: 20vh;
   background-color: green;
 }
 
