@@ -19,7 +19,7 @@ main{
   justify-content: center;
   align-item: center; 
   width: 80vw;
-  height: 60vh; 
+  height: 50vh; 
   margin-top: 10rem;
   background:hsl(0, 0%, 100%);
 }
