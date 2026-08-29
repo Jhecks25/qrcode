@@ -3,6 +3,11 @@
   font-family: outfit;
 }
 
+body{
+  margin: 0;
+  padding: 0;
+  box-sizig: border-box;
+}
 main{
   display: flex;
   justify-content: center;
