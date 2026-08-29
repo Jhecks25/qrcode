@@ -43,6 +43,7 @@ main{
   width: 70vw; 
   height: 20vh;
   margin-bottom: 5rem; 
+  background-color: red;
 }
 
 .qrcode-text > span{
