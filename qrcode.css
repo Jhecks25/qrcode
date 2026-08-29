@@ -47,7 +47,6 @@ main{
   width: 70vw; 
   height: 20vh;
   margin-bottom: 10vh;
-  font-family: outfit;
   font-size: 15px;
   background-color: ;
 }
@@ -56,6 +55,7 @@ main{
   width: 60vw;
   margin-top: 0.1rem;
   padding: 0.5rem;
+  font-family: outfit;
 }
 
 .text-weight-700{
