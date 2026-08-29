@@ -23,7 +23,7 @@ main{
   justify-content: center;
   align-item: center; 
   width: 60vw;
-  height: 100vh;
+  height: 60vh;
   gap: 0.5rem;
   background:hsl(0, 0%, 100%);
 }
