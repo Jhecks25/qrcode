@@ -28,8 +28,7 @@ main{
 .qrcode-image{
   width: 70vw; 
   height: 30vh;
-  margin-top: 1rem;
-  background-color: ;
+  margin-top: 1rem; 
 }
 
 .qrcode-image > img{
@@ -44,15 +43,13 @@ main{
   width: 70vw; 
   height: 20vh;
   margin-bottom: 10vh; 
-  background-color: ;
 }
 
 .qrcode-text > span{
   width: 70vw;
   height: 10vh; 
   padding: 0.5rem;
-  font-size: 1rem;
-  background-color: ;
+  font-size: 1rem; 
 }
 
 .text-weight-700{
@@ -61,8 +58,7 @@ main{
 
 .text-weight-400{
   font-weight: 400;
-  margin-top: -4rem;
-  background-color: ;
+  margin-top: -4rem; 
   color: hsl(220, 15%, 55%);
 }
 
