@@ -50,7 +50,7 @@ main{
 .qrcode-text > span{
   width: 50vw;
   margin-top: 0.5rem;
-  padding: 1rem;
+  padding: 0.5rem;
 }
 
 /**
