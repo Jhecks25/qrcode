@@ -30,6 +30,7 @@ main{
 .qrcode-image{
   width: 70vw; 
   height: 30vh;
+  margin-top: 1rem;
   background-color: red;
 }
 
