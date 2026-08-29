@@ -49,6 +49,7 @@ main{
 
 .qrcode-text > span{
   width: 50vw;
+  height: 20vh;
   margin-top: 0.5rem;
   padding: 0.5rem;
 }
