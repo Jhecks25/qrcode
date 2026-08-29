@@ -24,6 +24,7 @@ main{
   align-item: center; 
   width: 60vw;
   height: 30vh;
+  gap: 2;
   background:hsl(0, 0%, 100%);
 }
 
