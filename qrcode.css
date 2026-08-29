@@ -42,6 +42,7 @@ main{
   flex-flow:wrap;
   width: 70vw; 
   height: 20vh;
+  line-height: 0.5rem;
   margin-bottom: 10vh; 
 }
 
