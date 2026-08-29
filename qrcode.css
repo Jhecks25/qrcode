@@ -58,6 +58,15 @@ main{
   padding: 0.5rem;
 }
 
+.text-weight-700{
+  font-weight: 700;
+}
+
+.text-weight-400{
+  font-weight: 400;
+}
+
+
 /**
  @media only screen and (max-width: 375px) {
   .main{
