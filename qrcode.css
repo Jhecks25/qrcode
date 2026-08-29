@@ -19,28 +19,19 @@ main{
 }
 
 .image_page{
-  width: 90%;
-  margin: auto;
-  height: 300px;
-  position: relative;
-  top: 40px;
+  width: 50vw; 
+  height: 30vh; 
   text-align: center;
   font-family: outfit;
 }
 
-.image_page h1{
-  font-size: 18px;
-}
-
-p{
-  font-size: 15px;
-}
-
 .image_page > img{
-  width: 90%;
-  height: 300px;
+  width: 30vw;
+  height: 20vh;
   border-radius: 15px;
 }
+ 
+
 
 /**
  @media only screen and (max-width: 375px) {
