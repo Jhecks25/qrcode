@@ -42,7 +42,7 @@ main{
   flex-flow:wrap;
   width: 70vw; 
   height: 20vh;
-  margin-bottom: 2rem; 
+  margin-bottom: 5rem; 
 }
 
 .qrcode-text > span{
@@ -54,12 +54,12 @@ main{
 
 .text-weight-700{
   font-weight: 700;
-  line-height: ;
+  line-height: 1.5rem;
 }
 
 .text-weight-400{
   font-weight: 400;
-  margin-top: -3rem; 
+  margin-top: -5rem; 
   color: hsl(220, 15%, 55%);
 }
 
