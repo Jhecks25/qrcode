@@ -28,13 +28,13 @@ main{
 }
 
 .qrcode-image{
-  width: 60vw; 
+  width: 70vw; 
   height: 30vh;
   background-color: red;
 }
 
 .qrcode-image > img{
-  width: 50vw;
+  width: 70vw;
   height: 30vh;
   border-radius: 15px;
 }
@@ -42,7 +42,7 @@ main{
 .qrcode-text{
   display:flex;
   flex-flow:wrap;
-  width: 60vw; 
+  width: 70vw; 
   height: 30vh;
   background-color: green;
 }
