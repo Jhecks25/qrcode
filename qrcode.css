@@ -5,6 +5,8 @@
 
 main{
   display: flex;
+  justify-content: center;
+  align-item: center;
   width: 100vw; 
   height: 100vh;
   background: hsl(212, 45%, 89%);
@@ -12,6 +14,8 @@ main{
 
  .wrapper{
   display:flex;
+  justify-content: center;
+  align-item: center;
   flex-flow:wrap;
   width: 60vw;
   height: 60vh;
