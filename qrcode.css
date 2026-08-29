@@ -28,6 +28,7 @@ main{
 
 .qrcode-image{
   width: 50vw; 
+  background-color: red;
 }
 
 .qrcode-image > img{
@@ -41,6 +42,7 @@ main{
   flex-flow:wrap;
   width: 50vw; 
   height: 5vh;
+  background-color: green;
 }
 
 .qrcode-text > span{
