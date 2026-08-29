@@ -23,7 +23,7 @@ main{
   justify-content: center;
   align-item: center; 
   width: 60vw;
-  height: 50vh;
+  height: 100vh;
   gap: 0.5rem;
   background:hsl(0, 0%, 100%);
 }
@@ -44,7 +44,7 @@ main{
   display:flex;
   flex-flow:wrap;
   width: 50vw; 
-  height: 20vh;
+  height: 30vh;
   background-color: green;
 }
 
