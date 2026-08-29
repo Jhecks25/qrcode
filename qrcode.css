@@ -47,12 +47,13 @@ main{
   width: 70vw; 
   height: 20vh;
   margin-bottom: 10vh;
+  font-family: outfit;
+  font-size: 15px;
   background-color: ;
 }
 
 .qrcode-text > span{
-  width: 60vw; 
-  font-family: outfit;
+  width: 60vw;
   margin-top: 0.1rem;
   padding: 0.5rem;
 }
